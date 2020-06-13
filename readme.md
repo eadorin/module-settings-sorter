@@ -9,7 +9,7 @@ Simply use the install module screen within the FoundryVTT setup
 The list is sorted automatically
 
 ## Acknowledgements
-@sdenec's fantastic[https://github.com/sdenec/tidy-ui_game-settings](Tidy-UI) also offers this functionality. This module was written before I knew about that module and also works with all Systems, not just D&D 5e.
+@sdenec's fantastic [https://github.com/sdenec/tidy-ui_game-settings](Tidy-UI) also offers this functionality. This module was written before I knew about that module and also works with all Systems, not just D&D 5e.
 
 
 ## License
