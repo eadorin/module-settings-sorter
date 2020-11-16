@@ -10,7 +10,7 @@ Hooks.once('renderSettingsConfig', async function() {
 
     // give each wrapper element an ID that url-safe(ish) matches the module name
     $('.sort-container').find('h2').each(function() {
-        $(this).parent().attr("id", ($(this).text().toLowerCase()).replace(/\s+/g, '-')  );
+        $(this).parent().attr("id", ("mss-" + $(this).text().toLowerCase()).replace(/\s+/g, '-')  );
     });
 
     // sort the divs alphabetically
